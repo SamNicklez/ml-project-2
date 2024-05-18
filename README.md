@@ -48,4 +48,3 @@ As for the experience of completing the project, we think it was laid out well a
 
 ## Disclosure
 N/A
-```
